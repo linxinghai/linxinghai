@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm linxinghai
-
+gitee: https://gitee.com/linxinh
+github: https://github.com/linxinghai
 <!--
 **linxinghai/linxinghai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
